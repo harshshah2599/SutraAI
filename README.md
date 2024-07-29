@@ -20,7 +20,7 @@ The primary objectives of this project are to:
 
 ---
 
-## <a href="https://www.loom.com/share/7acfe826f1ed4a1abf0a4d4888a4633b?sid=903e8bb2-7902-4a47-bc08-67ea12723dd7">DEMO</a>
+## <a href="https://www.loom.com/share/7acfe826f1ed4a1abf0a4d4888a4633b?sid=903e8bb2-7902-4a47-bc08-67ea12723dd7"> DEMO (👈🏻click here)</a>
 
 ---
 ## 📦 Delivered:

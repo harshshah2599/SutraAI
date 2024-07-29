@@ -35,6 +35,7 @@ The following deliverables were accomplished:
 ## Architecture:
 ![SutraAI drawio](https://github.com/user-attachments/assets/be95172a-33b3-4965-a493-12a2e1646de2)
 
+--- 
 ## 🏁 Conclusion
 
 SutraAI effectively addresses the challenge of accessing relevant information from vast amounts of textual data. By integrating with Google Drive, creating vector embeddings, and using advanced natural language processing with GPT-3, SutraAI streamlines the process of querying multiple documents. The backend functionalities built with FastAPI, combined with a user-friendly interface via Streamlit, and the automated data management through Airflow, ensure an efficient and accurate retrieval of information. The project’s successful implementation demonstrates its potential to significantly enhance productivity and accuracy in data retrieval tasks, making it an invaluable tool for users needing to manage and query extensive document collections.

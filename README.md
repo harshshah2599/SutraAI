@@ -18,11 +18,11 @@ The primary objectives of this project are to:
 🔎 Retrieve the relevant context from the data based on user input queries. <br>
 🧠 Use GPT-3.5 Turbo for summarization, phrasing, and question-answering to provide the user with a concise and accurate response. <br>
 
-<--->
+('---')
 
 ## <a href="https://www.loom.com/share/7acfe826f1ed4a1abf0a4d4888a4633b?sid=903e8bb2-7902-4a47-bc08-67ea12723dd7">DEMO</a>
 
-<---> 
+('---') 
 
 ### Architecture:
 ![SutraAI drawio](https://github.com/user-attachments/assets/be95172a-33b3-4965-a493-12a2e1646de2)

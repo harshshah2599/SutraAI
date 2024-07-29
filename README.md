@@ -15,4 +15,4 @@ The primary objectives of this project are to:
 
 ![SutraAI drawio](https://github.com/user-attachments/assets/be95172a-33b3-4965-a493-12a2e1646de2)
 
-## [DEMO!]<https://www.loom.com/share/7acfe826f1ed4a1abf0a4d4888a4633b?sid=903e8bb2-7902-4a47-bc08-67ea12723dd7>
+## <a ref="https://www.loom.com/share/7acfe826f1ed4a1abf0a4d4888a4633b?sid=903e8bb2-7902-4a47-bc08-67ea12723dd7">DEMO</a>
